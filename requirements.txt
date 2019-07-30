@@ -1,0 +1,12 @@
+Django
+django-filter
+django-widget-tweaks
+docx-mailmerge
+lxml
+Markdown
+Pillow
+pytz
+six
+psycopg2
+requests
+
