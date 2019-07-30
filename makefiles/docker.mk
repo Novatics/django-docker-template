@@ -43,7 +43,7 @@ migrations:
 
 migrate:
 	# Migrate migrations
-	sudo docker-compose run webr python manage.py migrate
+	sudo docker-compose run web python manage.py migrate
 
 fixture:
 	# Generate fixtures saved upon core models
